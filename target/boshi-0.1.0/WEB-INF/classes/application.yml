@@ -1,0 +1,8 @@
+spring.data.mongodb:
+      uri: mongodb://localhost/qt
+      port: 27017
+#logging.level.org.springframwork:
+#      web: INFO
+#      security: DEBUG
+
+
