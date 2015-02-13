@@ -19,6 +19,8 @@ import java.util.List;
 
 import javax.annotation.PostConstruct;
 
+import static com.ex.server.oauth.OAuth2Conf.*;
+
 
 /**
  * Created by roy on 04/02/2015.
